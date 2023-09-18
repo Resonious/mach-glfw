@@ -7,8 +7,8 @@
             .hash = "1220293eae4bf67a7c27a18a8133621337cde91a97bc6859a9431b3b2d4217dfb5fb",
         },
         .glfw = .{
-            .url = "https://pkg.machengine.org/glfw/bad964824403ba34c935a90013024957dae795aa.tar.gz",
-            .hash = "1220fe0763e9722d56d3f93f8740e077fccf338d9697f08239d79a1ee27ae5833e62",
+            .url = "https://github.com/Resonious/glfw-zig/archive/ddd9ae440bed2410d2b5b3c450c1d46c3c1fba53.tar.gz",
+            .hash = "1220f4b3282bce3b9d7849a75e87c3a6e3c460ba51c1921729479cdee0af966314aa",
         },
         .direct3d_headers = .{
             .url = "https://pkg.machengine.org/direct3d-headers/c02ba4ba3f9473560e41487090ee6bfbbc44c75b.tar.gz",
